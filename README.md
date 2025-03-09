@@ -1,16 +1,36 @@
-## Hi there 👋
+### 👋 ¡Hola, soy Marcos Rodríguez!
 
-<!--
-**rmarcosr/rmarcosr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Desarrollador Fullstack** | 🚀 Apasionado por la informática y la programación
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... 
--->
+### 🧑‍💻 Sobre mí
+
+Soy un desarrollador fullstack con una gran capacidad de aprendizaje y adaptación a nuevos entornos. <br/>
+Me especializo en tecnologías del ecosistema **Java**.
+
+📚 Estudios:
+- **Desarrollo de Aplicaciones Multiplataforma (DAM)**
+- **Sistemas Microinformáticos y Redes (SMR)**
+
+🎯 Estudios que pienso continuar: **Big Data e IA**.
+
+---
+
+### 🛠️ Tecnologías y herramientas
+
+- **Backend:** Java, Spring Boot, Hibernate  
+- **Frontend:** HTML, CSS, Bootstrap, Angular, TypeScript, JavaScript, React
+- **Bases de Datos:** MySQL/MariaDB, PostgreSQL, MongoDB  
+- **Otros:** Git, Linux, Kotlin, Jettpack Compose
+
+🎯 Aprendiendo sobre **Go**, **AWS** y **python.**
+
+
+---
+
+### 📫 Contacto
+
+🔗 **LinkedIn:** [Marcos Rodríguez](https://www.linkedin.com/in/marcos-rodr%C3%ADguez-rom%C3%A1n-26770a2a4/)  
+📂 **Portafolio:** https://rmarcosr.github.io/rmarcosr/
+
