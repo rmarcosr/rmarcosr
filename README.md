@@ -19,12 +19,12 @@ Me especializo en tecnologías del ecosistema **Java**.
 
 ### 🛠️ Tecnologías y herramientas
 
-- **Backend:** Java, Spring Boot, Hibernate  
-- **Frontend:** HTML, CSS, Bootstrap, Angular, TypeScript, JavaScript, React
+- **Backend:** Java, Spring Boot, Hibernate, Go
+- **Frontend:** HTML, CSS, Bootstrap, Angular, TypeScript, JavaScript
 - **Bases de Datos:** MySQL/MariaDB, PostgreSQL, MongoDB  
 - **Otros:** Git, Linux, Kotlin, Jettpack Compose
 
-🎯 Aprendiendo sobre **Go**, **AWS** y **python.**
+🎯 Aprendiendo sobre **AWS** y **python.**
 
 
 ---
