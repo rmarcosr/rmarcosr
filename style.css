@@ -1,0 +1,28 @@
+body {
+    font-family: 'Rubik', sans-serif;
+}
+
+.hero {
+    background: linear-gradient(to right, #0f1327, #242043, #392c64);
+    color: white;
+    padding: 100px 0;
+}
+
+.tech-icon {
+    font-size: 2rem;
+    margin: 10px;
+}
+
+.project-card img {
+    height: 180px;
+    object-fit: cover;
+}
+
+footer {
+    color: white;
+    padding: 30px 0;
+}
+
+body {
+    padding-top: 40px;
+}
